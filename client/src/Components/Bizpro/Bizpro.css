@@ -1,0 +1,55 @@
+.hd-icon {
+  border-radius: 50%;
+  border: 1px solid red;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: x-large;
+}
+.hd-icon:hover{
+    background-color: red;
+}
+.bzp-info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.m-btn {
+  padding: 10px 20px;
+  background-color: transparent;
+  border: 1px solid red;
+}
+.m-btn:hover{
+    background-color: red;
+}
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.cards {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10%;
+}
+
+.txt:hover{
+    color: red;
+}
+.container1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bzp-txt{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}

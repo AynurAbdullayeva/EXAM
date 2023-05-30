@@ -1,0 +1,41 @@
+.info-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5%;
+}
+
+.zoom {
+    /* padding: 50px; */
+    transition: transform .2s;
+    /* width: 200px;
+    height: 200px; */
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .zoom:hover {
+    transform: scale(1.5); 
+  }
+
+  .community{
+    overflow: hidden;
+    /* width: 50%;
+    height: 50vh; */
+
+  }
+  .box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10%;
+  }
+  
